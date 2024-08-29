@@ -20,9 +20,148 @@
         },
         {
             "id":"4",
-            "movieName":"فانتزی",
-            "director":"مسعود دهنمکی",
-            "image":"https://static.cdn.asset.filimo.com/ct/olbqc_desktop_1_v9.jpeg?width=1920&quality=85&secret=hf8DYHDHgAVrEsMR38Umkw"
+            "movieName":"ددپول",
+            "director":"شاون لوی",
+            "image":"https://static.cdn.asset.filimo.com/ct/ja6ud_desktop_1_v1.jpeg?width=1920&quality=85&secret=I7GGIyMjbVsxUGYs61STPA"
         }
-    ]
+    ],
+    "Series":[
+        {
+           "id":"1",
+           "title":"اختصاصی فیلیمو",
+           "SeriesName":"لالایی",
+           "image":"https://static.cdn.asset.filimo.com/flmt/mov_149390_185566.jpg?width=165&quality=85&secret=8LD_TXLEvC62glq4ePL3Qg"
+        },
+        {
+           "id":"2",
+           "title":"اختصاصی فیلیمو",
+           "SeriesName":"گل یا پوچ",
+           "image":"https://static.cdn.asset.filimo.com/flmt/mov_149311_185433.jpg?width=165&quality=85&secret=fBF3Py01LZK-8Dnzw2TB2A"
+        },
+        {
+           "id":"3",
+           "title":"اختصاصی فیلیمو",
+           "SeriesName":"زخم کاری - انتقام",
+           "image":"https://static.cdn.asset.filimo.com/flmt/mov_149252_185425.jpg?width=165&quality=85&secret=KRUvFOSFtbxn51s2HIyyyA"
+        },
+        {
+           "id":"4",
+           "title":"اختصاصی فیلیمو",
+           "SeriesName":"جوکر",
+           "image":"https://static.cdn.asset.filimo.com/flmt/mov_149096_185050.jpg?width=165&quality=85&secret=8VYEyO_dfB_2E_UjQegw-Q"
+        },
+        {
+           "id":"5",
+           "title":"انیمیشن ",
+           "SeriesName":"پسر دلفینی",
+           "image":"https://static.cdn.asset.filimo.com/flmt/mov_149310_185431.jpg?width=165&quality=85&secret=Lns_fh0vXnOjBxEXwjkPdg"
+        }
+    ],
+    "Daily":[
+        {
+            "id":"1",
+            "title":"سرگیجه",
+            "director":"کارگردان: محمد حاتمی",
+            "sort":"ریلیتی شو",
+            "description":"این جا آخر خطه، پس هر کی هر چی داره رواداره می کنه...  ",
+            "image":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149392_803.jpg?width=1920&quality=80&secret=nOzJe2vTZQcITyqE1NfR4w",
+            "two":"https://static.cdn.asset.filimo.com/flmt/mov_147909_180170.jpg?width=220&quality=85&secret=b6t0fXUrN6e-4R0czoPgQg",
+            "three":"https://www.filimo.com/assets/web/ui/img-2sVIr5QrVTRTZauBs5WA/campaigns/nosub-v_new/icon-lock_fill.png",
+            "four":"https://static.cdn.asset.filimo.com/flmt/mov_logo_147881_512.png?width=400&quality=85&secret=s0NqtSV6Fv8O7QJgUXCuyQ",
+            "season":"فصل..."
+
+        }
+    ],
+    "Freecontent":[
+        {
+        "id":"1",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&secret=TTVEtvEcur7pOH0IgDJRhw ",
+        "Name":"پایتخت"
+    },
+        {
+        "id":"2",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&secret=U80oEojsjv7n8SfJm-7rMQ ",
+        "Name":"عقرب"
+    },
+        {
+        "id":"3",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA ",
+        "Name":"ملکه گدایان"
+    },
+        {
+        "id":"4",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_6121_429-b.jpg?width=165&quality=85&secret=2qZQaxdMnv53hxHAJB2RgQ ",
+        "Name":"ویرانگر"
+    },
+        {
+        "id":"5",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ ",
+        "Name":"شاهرگ"
+    },
+        {
+        "id":"6",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&secret=T7uBxOIOJlPMJv1V6Ltu7Q ",
+        "Name":"بالشها"
+    },
+        {
+        "id":"7",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA ",
+        "Name":"حماسه دره شیلر"
+    },
+        {
+        "id":"8",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_11388_20029-b.jpg?width=165&quality=85&secret=63cTB6TyuLfmAR5Bqs4pKw ",
+        "Name":"راز دشت تاران"
+    },
+        {
+        "id":"9",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_12003_264-b.jpg?width=165&quality=85&secret=TIaDo6iDGZNR2tkxhOcbzg ",
+        "Name":"چپ دست"
+    },
+        {
+        "id":"10",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165&quality=85&secret=zzPDwF-hvHdgEpy62Nqxog ",
+        "Name":"شب های مافیا ۲"
+    },
+        {
+        "id":"11",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_srl_82692_194-b.jpg?width=165&quality=85&secret=XlHlDu3cATALZhmyuhFrXQ ",
+        "Name":"مردم معمولی"
+    },
+        {
+        "id":"12",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_37557_162877.jpg?width=165&quality=85&secret=5TISom_UoBFESLgSRAucQQ ",
+        "Name":"دیرین دیرین"
+    },
+        {
+        "id":"13",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165&quality=85&secret=zKNS5MCO36dP6R20MWmPCA ",
+        "Name":"سال های دور از خانه"
+    },
+        {
+        "id":"14",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_6033_563-b.jpg?width=165&quality=85&secret=pslQCgE55HxG3c3LhyrawQ ",
+        "Name":"زهر عسل"
+    },
+        {
+        "id":"15",
+        "logo":"رایگان",
+        "image":"https://static.cdn.asset.filimo.com/flmt/mov_11454_507-b.jpg?width=165&quality=85&secret=D6nLMevZCMRkJN19LqhCTQ ",
+        "Name":"پنجه در خاک"
+    }
+]
 }
